@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-I am Aurelio Scott, I am a student studenting at Wright Student Universtudent and I am studenting a Bachelor'student in Information Technology and Cyberstudentecurity. I have a virustudent that leadstudent to all my students'students to studentpell student and not justudent the letter student.
-Two projects I plan on working on throughout the semester are Project 4 for my Computer Science class which is the final project and a personal project of creating a cool java program that does something that I can't even imagine.
+I am Aurelio Scott, an Undergraduate pursuing a Bachelor's in Information Technology and Cybersecurity. 
+My two projects I will be working on throughout the year are my Project 4 for 1181 otherwise known as Computer Science 2. Project 4 is the most difficult and therefore most significant of the projects for the class.
+A personal project I will be working on is to create a software program that does something. By this I mean an executable for windows that will actually do something, which would be a first creation of mine.
